@@ -1,1 +1,3 @@
-Fourth Commit
+<<<<<<< HEAD
+Hey wassup nigga!
+>>>>>>> issue1
