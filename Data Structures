@@ -1,0 +1,10 @@
+# Data Structures Course UE19CS207
+
+These are all the programs for the Data Structues course for the 3rd semester in CSE at PES University, Bangalore.
+
+## Usage
+
+```C
+gcc <filename.c>
+a.out
+```
